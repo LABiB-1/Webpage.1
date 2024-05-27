@@ -1,0 +1,57 @@
+section > p{
+
+    text-align: center;
+    font-size: larger;
+}
+nav > ul > li {
+    display: inline;
+    margin-right: 50px;
+
+}
+
+nav li > a {
+    text-decoration: none;
+}
+
+article > section > header{
+    color: green;
+    background-color:whitesmoke;
+    font-size: x-large;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    border-radius: 20px;
+  }
+body{
+    margin: 0px 300px;
+}
+section > h2{
+    color: rgb(22, 70, 22);
+
+}
+
+section > h1{
+    color: blue;
+}
+
+
+footer > p{
+    text-align: center;
+    margin-top: 90px;
+ 
+
+}
+footer > section{
+    display: inline;
+  
+
+}
+
+footer > span > a > img{
+    width: 100px;
+
+}
